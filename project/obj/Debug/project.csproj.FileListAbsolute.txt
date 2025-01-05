@@ -1,0 +1,32 @@
+C:\Users\saridn\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\saridn\Desktop\project\project\bin\Debug\project.exe
+C:\Users\saridn\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\saridn\Desktop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.NewCustomer.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.Form1.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.Form2.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.Form3.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.Form4.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.MainPage.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\Noam.Product_Management.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\saridn\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\saridn\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\saridn\Desktop\project\project\obj\Debug\project.exe
+C:\Users\saridn\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\bin\Debug\project.exe.config
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\bin\Debug\project.exe
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\bin\Debug\project.pdb
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.NewCustomer.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.Form1.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.Form2.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.Form3.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.Form4.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.MainPage.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\Noam.Product_Management.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\project.exe
+C:\Users\talyasaa\Downloads\Nir\קבצים מחשב ניר\project\obj\Debug\project.pdb
