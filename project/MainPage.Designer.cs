@@ -35,6 +35,8 @@ namespace Noam
             this.Name = "MainPage";
             this.Text = "MainPage";
 
+         
+
             // 
             // lblConnected
             // 
@@ -58,10 +60,10 @@ namespace Noam
             // 
             // btnManageRepairs
             // 
-            this.btnManageRepairs.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnManageRepairs.Location = new System.Drawing.Point(300, 150);
+            this.btnManageRepairs.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point); // גודל גופן יותר גדול
+            this.btnManageRepairs.Location = new System.Drawing.Point(250, 150); // מיקום הכפתור
             this.btnManageRepairs.Name = "btnManageRepairs";
-            this.btnManageRepairs.Size = new System.Drawing.Size(200, 60);
+            this.btnManageRepairs.Size = new System.Drawing.Size(300, 80); // הגדלת הגודל
             this.btnManageRepairs.TabIndex = 1;
             this.btnManageRepairs.Text = "Manage Repairs";
             this.btnManageRepairs.UseVisualStyleBackColor = true;
@@ -69,10 +71,10 @@ namespace Noam
             // 
             // btnCustomerService
             // 
-            this.btnCustomerService.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnCustomerService.Location = new System.Drawing.Point(300, 240);
+            this.btnCustomerService.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point); // גודל גופן יותר גדול
+            this.btnCustomerService.Location = new System.Drawing.Point(250, 240); // מיקום הכפתור
             this.btnCustomerService.Name = "btnCustomerService";
-            this.btnCustomerService.Size = new System.Drawing.Size(200, 60);
+            this.btnCustomerService.Size = new System.Drawing.Size(300, 80); // הגדלת הגודל
             this.btnCustomerService.TabIndex = 2;
             this.btnCustomerService.Text = "Customer Service";
             this.btnCustomerService.UseVisualStyleBackColor = true;
@@ -80,10 +82,10 @@ namespace Noam
             // 
             // btnEmployeeManagement
             // 
-            this.btnEmployeeManagement.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnEmployeeManagement.Location = new System.Drawing.Point(300, 330);
+            this.btnEmployeeManagement.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point); // גודל גופן יותר גדול
+            this.btnEmployeeManagement.Location = new System.Drawing.Point(250, 330); // מיקום הכפתור
             this.btnEmployeeManagement.Name = "btnEmployeeManagement";
-            this.btnEmployeeManagement.Size = new System.Drawing.Size(200, 60);
+            this.btnEmployeeManagement.Size = new System.Drawing.Size(300, 80); // הגדלת הגודל
             this.btnEmployeeManagement.TabIndex = 3;
             this.btnEmployeeManagement.Text = "Employee Management";
             this.btnEmployeeManagement.UseVisualStyleBackColor = true;
@@ -91,10 +93,10 @@ namespace Noam
             // 
             // btnHome
             // 
-            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnHome.Location = new System.Drawing.Point(700, 550);
+            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point); // גודל גופן יותר גדול
+            this.btnHome.Location = new System.Drawing.Point(700, 500); // מיקום הכפתור
             this.btnHome.Name = "btnHome";
-            this.btnHome.Size = new System.Drawing.Size(80, 30);
+            this.btnHome.Size = new System.Drawing.Size(80, 40); // הגדלת הגודל
             this.btnHome.TabIndex = 4;
             this.btnHome.Text = "🏠 Home";
             this.btnHome.UseVisualStyleBackColor = true;

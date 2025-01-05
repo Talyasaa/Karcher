@@ -17,7 +17,7 @@ namespace project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainPage());
+            Application.Run(new Form2());
         }
     }
 }
